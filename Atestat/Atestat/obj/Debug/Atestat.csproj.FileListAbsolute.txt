@@ -1,0 +1,209 @@
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.pdb
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\bin\Debug\Atestat.exe.config
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\bin\Debug\Atestat.exe.config
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.exe
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.pdb
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\bin\Debug\Atestat.exe
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\bin\Debug\Atestat.pdb
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+C:\Users\Ax3L\Documents\Visual Studio 2008\Projects\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+F:\Atestat\Atestat\bin\Debug\Atestat.exe.config
+F:\Atestat\Atestat\obj\Debug\Atestat.exe
+F:\Atestat\Atestat\obj\Debug\Atestat.pdb
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\bin\Debug\Database1.mdf
+H:\Documents and Settings\g6_0_12\Desktop\Atestat\Atestat\bin\Debug\Database1_log.ldf
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.exe.config
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.pdb
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\bin\Debug\Database2.mdf
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\bin\Debug\Database2_log.ldf
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form10.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form11.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.exe.config
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.pdb
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Database1.mdf
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Database1_log.ldf
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Database2.mdf
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Database2_log.ldf
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form10.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form11.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)1\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat(SQL)\Atestat\Atestat\bin\Debug\Atestat.exe.config
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.pdb
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form14.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form15.resources
+C:\Users\AxeL\Desktop\Atestat(SQL)\Atestat\Atestat\obj\Debug\Atestat.Form16.resources
+E:\X\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.exe.config
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.exe
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.pdb
+E:\X\CIA_nationala\Atestat\Atestat\bin\Debug\Database2.mdf
+E:\X\CIA_nationala\Atestat\Atestat\bin\Debug\Database2_log.ldf
+E:\X\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.exe
+E:\X\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.pdb
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form10.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form11.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form14.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form15.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form16.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+E:\X\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+F:\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.exe.config
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.exe
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.pdb
+F:\CIA_nationala\Atestat\Atestat\bin\Debug\Database2.mdf
+F:\CIA_nationala\Atestat\Atestat\bin\Debug\Database2_log.ldf
+F:\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.exe
+F:\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.pdb
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form10.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form11.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form14.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form15.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form16.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+F:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+K:\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.exe.config
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.exe
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.pdb
+K:\CIA_nationala\Atestat\Atestat\bin\Debug\Database2.mdf
+K:\CIA_nationala\Atestat\Atestat\bin\Debug\Database2_log.ldf
+K:\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.exe
+K:\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat.pdb
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form10.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form11.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form14.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form15.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form16.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+K:\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.Cache
+D:\DiversE\Atestat\Atestat\bin\Debug\Atestat.exe.config
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.exe
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.pdb
+D:\DiversE\Atestat\Atestat\bin\Debug\Database2.mdf
+D:\DiversE\Atestat\Atestat\bin\Debug\Database2_log.ldf
+D:\DiversE\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\DiversE\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\DiversE\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form14.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form15.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form16.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+D:\DiversE\Atestat\Atestat\obj\Debug\ResGen.read.1.tlog
+D:\DiversE\Atestat\Atestat\obj\Debug\ResGen.write.1.tlog
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\bin\Debug\Database2.mdf
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\bin\Debug\Database2_log.ldf
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\ResolveAssemblyReference.cache
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form12.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form13.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form14.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form15.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form16.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form4.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form5.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form6.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form7.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form8.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Form9.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\ResGen.read.1.tlog
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\ResGen.write.1.tlog
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat_J.exe.config
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat_J.exe
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\bin\Debug\Atestat_J.pdb
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat_J.exe
+D:\KiturI\Programs\CIA_nationala\CIA_nationala\Atestat\Atestat\obj\Debug\Atestat_J.pdb
